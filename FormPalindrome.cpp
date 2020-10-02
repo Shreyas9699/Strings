@@ -4,6 +4,16 @@ For Example:
 ab: Number of insertions required is 1. bab or aba
 aa: Number of insertions required is 0. aa
 abcd: Number of insertions required is 3. dcbabcd
+Example:
+Input:
+    3
+    abcd
+    aba
+    geeks
+Output:
+    3
+    0
+    3
 */
 
 #include <bits/stdc++.h>
